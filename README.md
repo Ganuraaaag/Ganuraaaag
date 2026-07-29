@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=180&section=header&text=Hi%20there!%20I'm%20Anurag&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=180&section=header&text=Hi%20there!%20I'm%20Anurag&fontSize=70&fontColor=ffffff&animation=glitch" alt="Header Banner"/> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEAECA&height=180&section=header&text=Hi%20there!%20I'm%20Anurag&fontSize=70&fontColor=ffffff&animation=scaleIn" alt="Header Banner"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=15690BEE&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+ML+Learner%7C+DevOps+Explorer;git+commit+-m+%22It+Works...+Don't+Touch+It%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=15690BEE&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AWS+Cloud+Computing+Learner%7C+DevOps+Explorer;git+commit+-m+%22It+Works...+Don't+Touch+It%22" alt="Typing SVG" />
 <br>
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Data+Enthusiast+%26+ML+Explorer;Open+Source+Contributor;Problem+Solver+%F0%9F%A7%A9;Lifelong+Learner+%F0%9F%92%A1" alt="Typing SVG" /> -->
 </div>
@@ -17,7 +18,7 @@
 
 Email Me 👉 ✉️ **ganurag200604@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** AI ML & DevOps
+- 🌱 **I’m currently learning:** DevOps & AWS Cloud Computing
 - 👯 **I’m looking to collaborate on:** innovative open-source data science projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** ganurag200604@gmail.com
@@ -80,11 +81,9 @@ Email Me 👉 ✉️ **ganurag200604@gmail.com** For Collaboration/Project or An
 
 ### Tools & Utilities
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -97,3 +96,9 @@ Email Me 👉 ✉️ **ganurag200604@gmail.com** For Collaboration/Project or An
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEAECA&height=100&section=footer&text=Thanks%20For%20Visiting!&fontSize=20&fontColor=ffffff" />
+
+</p>
