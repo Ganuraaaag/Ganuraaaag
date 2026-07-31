@@ -1,8 +1,12 @@
 <div align="center">
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=180&section=header&text=Hi%20there!%20I'm%20Anurag&fontSize=70&fontColor=ffffff&animation=glitch" alt="Header Banner"/> -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEAECA&height=180&section=header&text=Hi%20there!%20I'm%20Anurag&fontSize=70&fontColor=ffffff&animation=scaleIn" alt="Header Banner"/>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=EEAECA&height=180&section=header&text=Hi%20there!%20I'm%20Anurag&fontSize=70&fontColor=ffffff&animation=scaleIn" alt="Header Banner"/>
+</div> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:EC4899&height=180&section=header&text=Hi%20there!%20I'm%20Anurag&fontSize=45&fontColor=ffffff&stroke=000000&strokeWidth=2&animation=scaleIn" alt="Header Banner"/>
 </div>
-
+</div>
+</div>
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=15690BEE&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AWS+Cloud+Computing+Learner%7C+DevOps+Explorer;git+commit+-m+%22It+Works...+Don't+Touch+It%22" alt="Typing SVG" />
 <br>
