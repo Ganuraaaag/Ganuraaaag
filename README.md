@@ -97,8 +97,14 @@ Email Me 👉 ✉️ **ganurag200604@gmail.com** For Collaboration/Project or An
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!-- <p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=&height=100&section=footer&text=Thanks%20For%20Visiting!&fontSize=20&fontColor=ffffff" />
+
+</p> -->
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:EC4899&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFCC00" />
+</p> -->
 <p align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EEAECA&height=100&section=footer&text=Thanks%20For%20Visiting!&fontSize=20&fontColor=ffffff" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:EC4899&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=FFFFFF&stroke=000000&strokeWidth=1" />
 </p>
